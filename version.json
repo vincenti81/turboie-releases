@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/vincenti81/turboie-releases/releases/download/v1.0.2/app-release.apk",
-  "changelog": "• Test pipeline di auto-update\n• Numero versione visibile in basso a destra nella Home"
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/vincenti81/turboie-releases/releases/download/v1.0.3/app-release.apk",
+  "changelog": "• Audio italiano automatico per film e serie con più tracce\n• Per i file con singola traccia audio nessun cambiamento"
 }
