@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/vincenti81/turboie-releases/releases/download/v1.0.4/app-release.apk",
-  "changelog": "• Schermo pulito sui canali sport senza partita (niente scritta NO GAME TODAY)\n• In fullscreen solo video puro, niente overlay testuali sopra"
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/vincenti81/turboie-releases/releases/download/v1.0.5/app-release.apk",
+  "changelog": "• Live più stabile sui canali sport (DAZN, Sky Sport): retry intelligente fino a 5 minuti contro gli errori del provider\n• Buffer video aumentato per assorbire i micro-blocchi\n• Schermo sempre acceso durante la riproduzione (basta paesaggi/screensaver)\n• Messaggio Tentativo di riconnessione visibile quando l'app sta recuperando"
 }
